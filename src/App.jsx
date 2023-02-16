@@ -7,7 +7,7 @@ import Contacto from './pages/Contacto';
 
 function App() {
   return (
-    <div className='App m-4 min-h-screen border border-black'>
+    <div className='App min-h-screen'>
       <Navbar />
       <Routes>
         <Route
